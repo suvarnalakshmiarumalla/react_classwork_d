@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://Maxa2z.github.io/UseContext_ref/",
+    "homepage": "https://suvarnalakshmiarumalla.github.io/react_classwork_d/",
     "scripts": {
         "dev": "vite",
         "predeploy": "npm run build",
